@@ -1,8 +1,8 @@
 # TeamSpeak Notifier
-Sends notifications when someone connects/disconnect from teamspeak server
+Sends notifications when someone connect/disconnect from a teamspeak server
 
 
-Build
+### Build
 
 1. Go to:
 
